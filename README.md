@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Vinicius Moura 😎👌
 - 🔭 Em Busca de um emprego como Programador
 - 🌱 Estudando Javascrip...
+- 📩 vinicius.lmoura@hotmail.com
 - ⚡ Não esqueça de beber água
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-de-moura/)
